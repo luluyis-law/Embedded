@@ -1,10 +1,10 @@
+---
+layout: post
+title: "《摆脱IDE束缚：在win下STM32 GCC + Makefile + MSYS64 + VSCode 完全开发环境搭建指南》"
+date: 2026-07-16
+tags: [GitHub,STM32, Makefile, VSCode, MSYS2, 嵌入式开发]
+---
 # 《摆脱IDE束缚：在win下STM32 GCC + Makefile + MSYS64 + VSCode 完全开发环境搭建指南》
----
-author: luluyis
-date: 2026-07-15
-tags: [STM32, Makefile, VSCode, MSYS2, 嵌入式开发]
-description: 手把手教你从零搭建 STM32 开源开发环境，彻底告别 Keil/IAR 的束缚
----
 ## 一、引言
 ### 1.1 为什么放弃 Keil/IAR？
 - 商用授权费用高，断网使用时又无法使用 vibe codeing
