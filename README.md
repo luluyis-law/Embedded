@@ -19,4 +19,4 @@
 
 个人学习，将会写一些文章
 
-1. [摆脱IDE束缚：在win下STM32 GCC + Makefile + MSYS64 + VSCode 完全开发环境搭建指南](./_posts/2026-07-16-摆脱IDE束缚：在win下STM32%20GCC%20+%20Makefile%20+%20MSYS64%20+%20VSCode%20完全开发环境搭建指南.md)
+1. [摆脱IDE束缚：在win下STM32 GCC + Makefile + MSYS64 + VSCode 完全开发环境搭建指南](./_posts/2026-07-16-摆脱IDE束缚：在win下STM32+GCC+Makefile+MSYS64+VSCode完全开发环境搭建指南.md)
